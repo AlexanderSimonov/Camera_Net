@@ -3,7 +3,6 @@ Src codes and files of Camera_Net (Flexscan3D supported)  <br>
 <b/>Camera_Net-1.1.1.zip</b> - оригинальный исходный код библиотеки Camera_Net версии 1.1.1 (https://github.com/free5lot/Camera_Net) <br>
 <b/>Camera_Net-1.1.2.zip</b> - оригинальный исходный код библиотеки Camera_Net версии 1.1.2 (https://github.com/free5lot/Camera_Net)<br>
 <b/>Camera_Net-1.1.1-maxres.zip</b> - исходный код скорректированной библиотеки Camera_Net. (https://github.com/aspadm/Camera_Net/releases/tag/v1.1.1-maxres) Позволяет в программе Flexscan 3D использовать максимальное разрешение для камер DirectShow. (автоматически для камеры выставляется максимальное разрешение). Автор изменений: Alexey Kirillov <br>
-<br>
 Автовыставление максимального разрешения DShow камер. Полезно для сканящих на вебки/камеры без собственного ПО/драйверов.<br>
 Не совместимо с LibFix по простой причине - заменяются одни и те же библиотеки.<br>
 На гитхабе: https://github.com/aspadm/Camera_Net/releases/tag/v1.1.1-maxres<br>
