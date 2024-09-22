@@ -1,5 +1,5 @@
 # Camera_Net
-Src codes and files of Camera_Net
+Src codes and files of Camera_Net <br>
 Camera_Net-1.1.1.zip - оригинальный исходный код библиотеки Camera_Net версии 1.1.1
 Camera_Net-1.1.2.zip - оригинальный исходный код библиотеки Camera_Net версии 1.1.2
 Camera_Net-1.1.1-maxres.zip - исходный код скорректированной библиотеки Camera_Net. Позволяет в программе Flexscan 3D использовать максимальное разрешение для камер DirectShow. (автоматически для камеры выставляется максимальное разрешение).
